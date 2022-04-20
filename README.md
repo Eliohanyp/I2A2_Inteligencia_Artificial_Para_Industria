@@ -1,5 +1,5 @@
 <h3><b>[EN-US]</h3></b>
-<h1>Artificial Intelligence for Manufacturing | I²A² - Institut d'Intelligence Artificielle Appliquée - Toronto, Ontário, Canadá in Partnership with ABDi - Brazilian Agency for Industrial Development</h1>
+<h1>Artificial Intelligence for Industry | I²A² - Institut d'Intelligence Artificielle Appliquée - Toronto, Ontário, Canadá in Partnership with ABDi - Brazilian Agency for Industrial Development</h1>
 <h2>    The course started on 10/03/2022 and will last 1 year, divided into 6 theorich months and 6 practical months</h2>
 
 <h3>Institute with the objective of acquiring talents to foster their professional development with focus on Artificial Intelligence. <br>
